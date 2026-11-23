@@ -26,4 +26,4 @@ However, IP geolocation does not conclusively establish the physical location or
 
 ## Evidence
 
-Screenshot: `../screenshots/question-02-virustotal.png`
+![Wireshark Conversations](../screenshots/question-02-virustotal.png)
