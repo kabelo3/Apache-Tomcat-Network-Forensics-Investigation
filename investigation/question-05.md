@@ -43,5 +43,6 @@ SOC analysts should investigate subsequent requests to determine whether the att
 
 ## Evidence
 
-- Wireshark HTTP request targeting `/manager`.
-- Follow HTTP Stream showing the corresponding `200 OK` response.
+![Wireshark Conversations](../screenshots/question-05-http-200.png)
+
+![Wireshark Conversations](../screenshots/question-05-manager-request.png)
