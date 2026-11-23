@@ -51,4 +51,4 @@ Useful detection opportunities include unusual outbound connections, shell proce
 
 ## Evidence
 
-Screenshot: `../screenshots/question-08-reverse-shell.png`
+![Wireshark Conversations](../screenshots/question-08-reverse-shell.png)
