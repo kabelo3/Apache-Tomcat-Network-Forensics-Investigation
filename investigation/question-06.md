@@ -37,6 +37,4 @@ SOC analysts should investigate credential-related activity alongside authentica
 
 ## Evidence
 
-Screenshot: `../screenshots/question-06-networkminer-credentials.png`
-
-The screenshot should show NetworkMiner's Credentials tab with the identified authentication information. Redact credentials if sharing the evidence publicly.
+![Wireshark Conversations](../screenshots/question-06-networkminer-credentials.png)
