@@ -42,4 +42,4 @@ SOC analysts should investigate suspicious file uploads, inspect deployment acti
 
 ## Evidence
 
-Screenshot: `../screenshots/question-07-war-upload.png`
+![Wireshark Conversations](../screenshots/question-07-war-upload.png)
