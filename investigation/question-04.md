@@ -39,5 +39,4 @@ SOC analysts can investigate these patterns using HTTP request logs, PCAP analys
 
 ## Evidence
 
-- Wireshark packet list showing repeated HTTP requests and 404 responses.
-- Follow HTTP Stream inspection showing evidence used to identify Gobuster.
+![Wireshark Conversations](../screenshots/question-04-gobuster-stream.png)
