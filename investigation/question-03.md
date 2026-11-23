@@ -44,5 +44,6 @@ Identifying exposed services helps SOC analysts understand the attack surface an
 
 ## Evidence
 
-- Wireshark display filter showing HTTP traffic involving the suspicious IP.
-- Follow HTTP Stream inspection showing the administrative interface communication.
+![Wireshark Conversations](../screenshots/question-03-filter.png)
+
+![Wireshark Conversations](../screenshots/question-03-http-stream.png)
