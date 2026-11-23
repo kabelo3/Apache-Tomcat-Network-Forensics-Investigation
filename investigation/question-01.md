@@ -3,7 +3,7 @@
 ## Objective
 Identify the IP address responsible for initiating suspicious requests against the Apache Tomcat web server.
 
-## Tool:
+## Tool Used
 - Wireshark
 
 ## Investigation Methodology
